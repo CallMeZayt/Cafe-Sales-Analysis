@@ -36,4 +36,4 @@ This project follows a structured data processing pipeline to ensure clean and r
 ![alt text](https://github.com/CallMeZayt/Cafe-Sales-Anlysis/blob/main/cafe_sales_dashboard.png?raw=true)
 
 ## Conclusion
-This project provides a comprehensive and interactive sales dashboard designed to offer valuable insights into cafe sales performance. Starting from raw data cleaning and preparation, the dashboard enables detailed visualization of monthly income trends, product sales distribution, purchase locations, and payment methods. 
+This project provides an interactive sales dashboard designed to give valuable insights into cafe sales performance. Starting from raw data cleaning and preparation, the dashboard enables detailed visualization of monthly income trends, product sales distribution, purchase locations, and payment methods. 
