@@ -42,4 +42,4 @@ This project follows a structured data processing pipeline to ensure clean and r
 - **Quantity by Item and Location Stacked Bar Chart**: A stacked bar chart illustrating product quantities sold broken down by location, assisting in understanding consumer preferences in different purchase contexts.
 - **Payment Method Distribution Pie Chart**: Shows the breakdown of payment methods used by customers, such as Digital Wallet, Cash, and Credit Card, for understanding payment behavior.
 
-![alt text](https://github.com/CallMeZayt/Cafe-Sales-Anlysis/cafe_sales_dashboard.png?raw=true)
+![alt text](https://github.com/CallMeZayt/Cafe-Sales-Anlysis/main/cafe_sales_dashboard.png?raw=true)
