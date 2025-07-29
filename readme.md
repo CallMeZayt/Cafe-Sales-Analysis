@@ -29,11 +29,11 @@ This project follows a structured data processing pipeline to ensure clean and r
 1. **Data Cleaning in Jupyter Notebook (Python)**  
    Raw sales data is first cleaned and preprocessed using Python in Jupyter Notebook. This includes handling missing values, correcting data types, filling missing prices, and calculating additional columns such as total spent per transaction item.
 2. **Data Input and Storage in Database**  
-   The cleaned data is then loaded into a relational database (e.g., MySQL, PostgreSQL). Stored procedures are created for common data operations such as aggregating sales by month, best seller products, and filtering by purchase location.
+   The cleaned data is then loaded into a relational database using MySQL. Stored procedures are created for common data operations such as aggregating sales by month, best seller products, and filtering by purchase location.
 3. **Data Visualization in Power BI**  
    Power BI connects to the database to load the processed data. Interactive visuals and filters are built in Power BI Desktop, leveraging the clean, pre-aggregated data for fast and dynamic dashboard performance.
 
-![alt text](https://github.com/CallMeZayt/Cafe-Sales-Anlysis/blob/main/cafe_sales_dashboard.png?raw=true)
+![alt text](https://github.com/CallMeZayt/Cafe-Sales-Anlysis/blob/main/cafe_sales_dashboard2.png?raw=true)
 
 ## Conclusion
 This project provides an interactive sales dashboard designed to give valuable insights into cafe sales performance. Starting from raw data cleaning and preparation, the dashboard enables detailed visualization of monthly income trends, product sales distribution, purchase locations, and payment methods. 
